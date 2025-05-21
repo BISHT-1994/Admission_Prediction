@@ -1,4 +1,4 @@
-🎓 Graduate Admission Prediction – Interactive Summary
+🎓 Admission Prediction – Summary
 🔍 Objective
 To predict the likelihood of a student being admitted to a graduate program using features like:
 
